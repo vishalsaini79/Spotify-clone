@@ -16,6 +16,6 @@ Welcome to the Spotify Clone – a sleek and responsive front-end replica of the
 
 **🛠️ Technologies Used**
 
-HTML5 📄
+HTML 📄
 
 CSS3 🎨
